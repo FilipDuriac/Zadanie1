@@ -15,3 +15,5 @@ Poiadavky na vedomosti a zruènosti študenta:
 analytické, abstraktné myslenie,
 zruènos v programovaní v jazyku Java,
 záujem o problematiku grafovıch algoritmov.
+
+Rok Obhajoby:2022.
