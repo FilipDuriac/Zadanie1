@@ -1,1 +1,17 @@
 Algoritmická Teória Grafov
+
+Graf je abstraktnı matematickı model, pomocou ktorého mono vyjadri štruktúru a vlastnosti navonok úplne rozdielnych reálnych systémov. Grafové algoritmy sa preto v praxi aplikujú na riešenie problémov v mnohıch oblastiach.  Implementáciu grafovıch algoritmov v softvérovıch aplikáciách vıznamne zjednodušujú špecializované kninice.
+
+Charakter práce:
+vıvoj softvéru – analıza riešeného problému, návrh softvéru, implementácia,
+popis vytvoreného softvéru, testovanie.
+
+Ciele práce:
+navrhnú kninicu grafovıch algoritmov so zameraním sa na problém preh¾adávania grafov,
+riešenie implementova ako balík tried  pouite¾nı pri vıvoji Java aplikácie,
+funkènos kninice demonštrova vyriešením vhodne zvolenıch grafovıch problémov.
+
+Poiadavky na vedomosti a zruènosti študenta:
+analytické, abstraktné myslenie,
+zruènos v programovaní v jazyku Java,
+záujem o problematiku grafovıch algoritmov.
